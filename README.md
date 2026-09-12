@@ -267,4 +267,4 @@ This repository serves as the official landing page for **Alan Wake 2**. The sof
 **Get the most recent version of Alan Wake 2 today!**
 
 ---
-**Last updated:** 2026-09-12 07:33:00 UTC
+**Last updated:** 2026-09-12 11:52:15 UTC
